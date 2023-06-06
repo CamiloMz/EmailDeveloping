@@ -1,0 +1,64 @@
+<mjml>
+  <mj-body background-color="#666">
+  <mj-section>
+  <mj-column>
+    <mj-text color="#FFF" align="right" padding="0">
+        no puedes ver el email? <a href="#" style="color:#FFF"> haz click acá</a>        
+    </mj-text>
+  </mj-column>
+  </mj-section>
+    <mj-section background-color="#FFF">
+      <mj-column 
+        width="50%"
+        vertical-align="middle">
+        <mj-image src="Optm/logo.png" alt="Logo" />
+      </mj-column>
+      <mj-column 
+        width="50%"
+        vertical-align="middle">
+        <mj-button
+            background-color="#FFF"
+            border="2px solid #000"
+            color="#000">
+            cel: +57 - 3186499267
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFF">
+    <mj-column>
+        <mj-image 
+            src="Optm/gif.gif" 
+            alt="gif"
+            padding="0" />        
+    </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFF">
+        <mj-column width="536px">
+            <mj-text
+                font-size="18px">
+                    Hello,
+            </mj-text>
+            <mj-text
+                font-size="18px">
+                    Are you looking for help with email marketing for your brand?
+            </mj-text>
+            <mj-text
+                font-size="18px">
+                    So you are in the right place, i have a lot of experience developing emails and working with ESP’s.
+            </mj-text>
+            <mj-text
+                font-size="18px">
+                    Are you ready? Let’s talk !
+            </mj-text>
+            <mj-button
+                font-size="18px"
+                font-weight="700"
+                background-color="#000"
+                border-radius="2rem"
+                padding="20px 0px">
+                Let's Go! >
+            </mj-button>
+        </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
